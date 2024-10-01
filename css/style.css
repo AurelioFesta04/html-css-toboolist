@@ -1,0 +1,156 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+body {
+background-color: hsl(200deg 20% 97.06%);
+
+}
+
+.square {
+    width: 1200px;
+    height: 1000px;
+    background-color: hsl(0deg 0% 100%);
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 1%;
+}
+
+.logo {
+    width: 80px;
+    vertical-align: middle;
+}
+
+.maintitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    vertical-align: middle;
+}
+
+.container {
+    margin: 0%;
+    width: 100%;
+    background-color: hsl(0deg 0% 100%);
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 20px;
+    
+}
+
+.buttons { 
+    margin-top: 15px;
+    margin-left: 3px;
+    color: hsl(202.5deg 9.52% 83.53%);
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    border-color: hsl(202.5deg 9.52% 83.53%);
+    margin-bottom: 10px;
+
+}
+
+.bluebutton {
+    margin-left: 50px;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    border-color: #ffffff;
+    background-color: hsl(204.14deg 85.79% 61.37%);
+
+}
+
+.divider {
+    margin-top: -25px;
+    border-color: rgba(240, 255, 255, 0);
+    background-color: hsl(200deg 20% 97.06%);
+
+}
+
+.list {
+    color: hsl(221.54deg 8.72% 29.22%);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-top: 70px;
+    list-style: none;
+}
+
+.secondlist {
+    list-style: none;
+}
+
+.mainlist {
+    font-size: 24px;
+}
+
+.editorial {
+    background-color: hsl(203.13deg 80.58% 59.61%);
+    font-size: 12px;
+    color: white;
+    padding: 7px;
+    border: 1px, solid, hsl(203.13deg 80.58% 59.61%);
+    border-radius: 30%;
+    margin-left: 5px;
+}
+
+.q1 {
+    background-color: hsl(262.11deg 67.86% 67.06%);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border: 1px, solid, hsl(262.11deg 67.86% 67.06%);
+    border-radius: 30%;
+    margin-left: 5px;
+}
+
+.recruiting {
+    background-color: hsl(165deg 42.2% 57.25%);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border: 1px, solid, hsl(165deg 42.2% 57.25%);
+    border-radius: 30%;
+    margin-left: 5px;
+}
+
+.mobile{
+    background-color: hsl(33.61deg 88.02% 57.45%);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border: 1px, solid, hsl(33.61deg 88.02% 57.45%);
+    border-radius: 30%;
+    margin-left: 5px;
+}
+
+.website {
+   background-color:hsl(327.93deg 59.18% 61.57%);
+   color: white;
+   font-size: 12px;
+   padding: 7px;
+   border: 1px, solid, hsl(327.93deg 59.18% 61.57%);
+   border-radius: 30%;
+   margin-left: 5px;
+}
+
+.sales {
+    background-color:hsl(69.15deg 68.91% 46.67%);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border: 1px, solid, hsl(69.15deg 68.91% 46.67%);
+    border-radius: 30%;
+    margin-left: 5px;
+}
+
+.circle {
+    border: 2px, solid,hsl(163.38deg 43.05% 70.39%) ;
+    border-radius: 100%;
+}
+
+.circle2 {
+    border: 2px, solid, hsl(4.41deg 82.93% 67.84%);
+    border-radius: 100%;
+}
